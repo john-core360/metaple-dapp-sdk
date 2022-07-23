@@ -1,4 +1,4 @@
-# MetapleDapp SDK
+# Metaple Dapp SDK
 
 Install dependencies
 
